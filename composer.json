@@ -1,0 +1,15 @@
+{
+  "name": "ai-solutions/cet333-prototype",
+  "description": "AI-Solutions CET333 Product Development prototype (PHP/MySQL).",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1",
+    "ext-pdo": "*"
+  },
+  "config": {
+    "platform": {
+      "php": "8.3.0"
+    }
+  }
+}
